@@ -1,0 +1,19 @@
+{
+  "name": "node-test-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "mocha --harmony --recursive test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TCooper8/node-test-site.git"
+  },
+  "author": "Tyler Cooper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TCooper8/node-test-site/issues"
+  },
+  "homepage": "https://github.com/TCooper8/node-test-site#readme"
+}
